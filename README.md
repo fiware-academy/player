@@ -12,4 +12,4 @@ https://forge.fiware.org/plugins/mediawiki/wiki/fiware/index.php/Working_with_th
 The source code is available from
 https://github.com/fiware-academy/player
 
-FIWARE Accademy team
+FIWARE Academy team
