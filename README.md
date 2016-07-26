@@ -1,6 +1,6 @@
 # player
 
-FIWARE ACADEMY COURSE PLAYER  
+FIWARE ACADEMY COURSE PLAYER v0.3.2
 
 This is the software component used to package web seminars as training 
 material on FIWARE technology (www.fiware.org) and published in the FIWARE
